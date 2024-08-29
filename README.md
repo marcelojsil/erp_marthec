@@ -1,9 +1,14 @@
 ## ERP MARTHEC
+### Sistema de gestão de imobiliárias conectado com website
+
 Criação de ERP Marthec utilizando a linguagem JavaScript.
 
-1. npm init -y -> instalar json;
-2. npm install express --save -> pacote de http e rotas;
-    2.a - criação de app.js;
-3. npm install nodemon -g -> tira a necessidade de reiniciar o servidor sempre que for feitas aglma alteração;
-4. npm install --save sequelize
-5. npm install --save mysql
+:heavy_check_mark: 1. npm init -y
+:heavy_check_mark: 2. npm install --save express
+:heavy_check_mark: 3. npm install --save mysql2
+:heavy_check_mark: 4. npm install --save body-parser
+:heavy_check_mark: 5. npm install --save cors
+
+:large_blue_circle: npm i --save express mysql2 body-parser cors
+
+:red_circle: - Website
